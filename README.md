@@ -1,4 +1,5 @@
 # `transfigure.io`
+
 ##### *The best transgender support site ever.*
 
 ## Mission Statement
@@ -30,18 +31,19 @@ It’s a website. We may provide:
 - A wiki.
 - Tech education & mentoring for trans individuals.
 
-### MVP
+##### Read more [here](docs/about.md)
 
-For minimum viable product we could have simply a static webpage providing some information and linking together chat and forum applications.
- 
-We also need a build process that goes GitHub → Live website.
+## Run the site locally
 
-### Tech stack 
+ 1. Ensure you have [docker](https://www.docker.com/community-edition) installed.
 
-For chat: https://rocket.chat/ https://github.com/RocketChat/Rocket.Chat
+ 2. Run the following make command to launch the server
 
-For forums: https://www.discourse.org/
+        make server
 
-For basic news/articles/etc: https://jekyllrb.com/
+ 3. Open up the following URL in a browser
 
-For witchcraft: https://facebook.github.io/react/
+        http://localhost:80
+
+ 4. To exit send `^C` `SIGINT` or press `ctl c` to the process
+
