@@ -1,0 +1,26 @@
+{
+  "name": "transfigure.io",
+  "version": "1.0.0",
+  "description": "The best transgender support site ever.",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kris-nova/transfigure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kris-nova/transfigure/issues"
+  },
+  "homepage": "https://github.com/kris-nova/transfigure#readme"
+}
