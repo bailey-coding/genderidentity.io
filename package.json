@@ -1,5 +1,5 @@
 {
-  "name": "transfigure.io",
+  "name": "genderidentity.io",
   "version": "1.0.0",
   "description": "The best transgender support site ever.",
   "main": "app.js",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kris-nova/transfigure.git"
+    "url": "git+https://github.com/kris-nova/genderidentity.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kris-nova/transfigure/issues"
+    "url": "https://github.com/kris-nova/genderidentity.io/issues"
   },
-  "homepage": "https://github.com/kris-nova/transfigure#readme"
+  "homepage": "https://github.com/kris-nova/genderidentity.io#readme"
 }

@@ -1,4 +1,4 @@
-# `transfigure.io`
+# `genderidentity.io`
 
 ##### *The best transgender support site ever.*
 
@@ -6,7 +6,7 @@
 
 ### What
 
-`transfigure.io` is a one-stop shop information and support website for transgender people.
+`genderidentity.io` is a one-stop shop information and support website for transgender people.
  
 Information means guides, news, advice navigating legal and medical hurdles, etc. Support means chat rooms, a forum, and ways to get in touch with IRL support organizations.
 
